@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/shinnoo/demo-ckeditor/static/css/main.19c68331.chunk.css",
-    "main.js": "/shinnoo/demo-ckeditor/static/js/main.39d1ac9f.chunk.js",
-    "main.js.map": "/shinnoo/demo-ckeditor/static/js/main.39d1ac9f.chunk.js.map",
-    "runtime-main.js": "/shinnoo/demo-ckeditor/static/js/runtime-main.2d7ead5e.js",
-    "runtime-main.js.map": "/shinnoo/demo-ckeditor/static/js/runtime-main.2d7ead5e.js.map",
-    "static/css/2.630ef54a.chunk.css": "/shinnoo/demo-ckeditor/static/css/2.630ef54a.chunk.css",
-    "static/js/2.31740ed7.chunk.js": "/shinnoo/demo-ckeditor/static/js/2.31740ed7.chunk.js",
-    "static/js/2.31740ed7.chunk.js.map": "/shinnoo/demo-ckeditor/static/js/2.31740ed7.chunk.js.map",
-    "static/js/3.c94aac11.chunk.js": "/shinnoo/demo-ckeditor/static/js/3.c94aac11.chunk.js",
-    "static/js/3.c94aac11.chunk.js.map": "/shinnoo/demo-ckeditor/static/js/3.c94aac11.chunk.js.map",
-    "index.html": "/shinnoo/demo-ckeditor/index.html",
-    "static/css/2.630ef54a.chunk.css.map": "/shinnoo/demo-ckeditor/static/css/2.630ef54a.chunk.css.map",
-    "static/css/main.19c68331.chunk.css.map": "/shinnoo/demo-ckeditor/static/css/main.19c68331.chunk.css.map",
-    "static/js/2.31740ed7.chunk.js.LICENSE.txt": "/shinnoo/demo-ckeditor/static/js/2.31740ed7.chunk.js.LICENSE.txt",
-    "static/media/coming_soon.51fe5182.svg": "/shinnoo/demo-ckeditor/static/media/coming_soon.51fe5182.svg"
+    "main.css": "/demo-ckeditor/static/css/main.19c68331.chunk.css",
+    "main.js": "/demo-ckeditor/static/js/main.39d1ac9f.chunk.js",
+    "main.js.map": "/demo-ckeditor/static/js/main.39d1ac9f.chunk.js.map",
+    "runtime-main.js": "/demo-ckeditor/static/js/runtime-main.6830855c.js",
+    "runtime-main.js.map": "/demo-ckeditor/static/js/runtime-main.6830855c.js.map",
+    "static/css/2.630ef54a.chunk.css": "/demo-ckeditor/static/css/2.630ef54a.chunk.css",
+    "static/js/2.2afea89e.chunk.js": "/demo-ckeditor/static/js/2.2afea89e.chunk.js",
+    "static/js/2.2afea89e.chunk.js.map": "/demo-ckeditor/static/js/2.2afea89e.chunk.js.map",
+    "static/js/3.c94aac11.chunk.js": "/demo-ckeditor/static/js/3.c94aac11.chunk.js",
+    "static/js/3.c94aac11.chunk.js.map": "/demo-ckeditor/static/js/3.c94aac11.chunk.js.map",
+    "index.html": "/demo-ckeditor/index.html",
+    "static/css/2.630ef54a.chunk.css.map": "/demo-ckeditor/static/css/2.630ef54a.chunk.css.map",
+    "static/css/main.19c68331.chunk.css.map": "/demo-ckeditor/static/css/main.19c68331.chunk.css.map",
+    "static/js/2.2afea89e.chunk.js.LICENSE.txt": "/demo-ckeditor/static/js/2.2afea89e.chunk.js.LICENSE.txt",
+    "static/media/coming_soon.51fe5182.svg": "/demo-ckeditor/static/media/coming_soon.51fe5182.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d7ead5e.js",
+    "static/js/runtime-main.6830855c.js",
     "static/css/2.630ef54a.chunk.css",
-    "static/js/2.31740ed7.chunk.js",
+    "static/js/2.2afea89e.chunk.js",
     "static/css/main.19c68331.chunk.css",
     "static/js/main.39d1ac9f.chunk.js"
   ]
